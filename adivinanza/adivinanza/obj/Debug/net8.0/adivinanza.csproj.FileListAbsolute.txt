@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\bin\Debug\net8.0\adivinanza.exe
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\bin\Debug\net8.0\adivinanza.deps.json
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\bin\Debug\net8.0\adivinanza.runtimeconfig.json
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\bin\Debug\net8.0\adivinanza.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\bin\Debug\net8.0\adivinanza.pdb
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\refint\adivinanza.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.pdb
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\ref\adivinanza.dll
