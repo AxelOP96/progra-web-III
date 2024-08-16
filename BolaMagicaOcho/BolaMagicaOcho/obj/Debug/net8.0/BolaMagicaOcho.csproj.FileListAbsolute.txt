@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\bin\Debug\net8.0\BolaMagicaOcho.exe
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\bin\Debug\net8.0\BolaMagicaOcho.deps.json
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\bin\Debug\net8.0\BolaMagicaOcho.runtimeconfig.json
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\bin\Debug\net8.0\BolaMagicaOcho.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\bin\Debug\net8.0\BolaMagicaOcho.pdb
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.sourcelink.json
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\refint\BolaMagicaOcho.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.pdb
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\BolaMagicaOcho.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\BolaMagicaOcho\BolaMagicaOcho\obj\Debug\net8.0\ref\BolaMagicaOcho.dll
