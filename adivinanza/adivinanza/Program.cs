@@ -24,29 +24,38 @@ int aleatorio = random.Next(1, limite);
 //Console.WriteLine(aleatorio);
 int contador = 0;
 int eleccion = 0;
-while(eleccion != aleatorio)
+Console.WriteLine("Ya elegi un nro, Adivine:");
+while (eleccion != aleatorio)
 {
-    Console.WriteLine("Ingrese su elección");
+    
     eleccion = int.Parse(Console.ReadLine());
     contador++;
     if(eleccion == aleatorio)
     {
         Console.WriteLine($"Muy bien ha adivinado! el nro que habia elegido era {aleatorio}! lo ha adivinado en {contador} intentos!");
     }
-    else if((eleccion - aleatorio) > 30 )
+    else if ((eleccion - aleatorio) == -1 || (aleatorio - eleccion) == 1 || (eleccion - aleatorio) == 1)
     {
-        Console.WriteLine("Helado... seguro sos de riber");
+        Console.WriteLine("Ardiente...");
     }
-    else if ((eleccion - aleatorio) > 10)
-    {
-        Console.WriteLine("Frio");
-    }
-    else if ((eleccion - aleatorio) > 5)
+    else if (((eleccion - aleatorio) <= 10 && (eleccion - aleatorio) > 1) 
+        //|| (aleatorio - eleccion < -1 && aleatorio-eleccion >= -10)
+        || (eleccion - aleatorio >= -10 && eleccion - aleatorio < -1))
     {
         Console.WriteLine("Caliente...");
     }
-    else if ((eleccion - aleatorio) == 1)
+    else if (((eleccion - aleatorio) <= 20 && (eleccion - aleatorio) > 11)
+        || (eleccion - aleatorio >= -20 && eleccion - aleatorio <= -11))
     {
-        Console.WriteLine("Ardiente...");
+        Console.WriteLine("Tibio...");
+    }
+    else if (((eleccion - aleatorio) <= 35 && (eleccion - aleatorio) > 21)
+        || (eleccion - aleatorio >= -35 && eleccion - aleatorio <= -21))
+    {
+        Console.WriteLine("Frio");
+    }
+    else
+    {
+        Console.WriteLine("Helado... seguro sos de riber");
     }
 }

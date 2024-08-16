@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("adivinanza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef991e47a4256e75d16340875c47daa73d469d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("adivinanza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("adivinanza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

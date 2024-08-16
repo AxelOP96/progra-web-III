@@ -12,3 +12,4 @@ C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanz
 C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.pdb
 C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.genruntimeconfig.cache
 C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\ref\adivinanza.dll
+C:\Users\admin\OneDrive\Escritorio\Tecnicatura\progra web 3\adivinanza\adivinanza\obj\Debug\net8.0\adivinanza.sourcelink.json
